@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 61800dfb54e9d3d459daf9100b7d50a4
+  - enabled: 1
+    path: Assets/Scenes/Skins.unity
+    guid: d8bf157659bd0bd4baa8f13f86305cdd
+  - enabled: 1
+    path: Assets/Scenes/Accessories.unity
+    guid: 8e74b33f0c9414f429907e6ea863f43a
+  - enabled: 1
+    path: Assets/Scenes/EndOfGame.unity
+    guid: 02bc9e5e8e2e8cc41adf92aa327f9e3c
+  - enabled: 1
+    path: Assets/Scenes/Lvls/Lvl1.unity
+    guid: 1110db4858e91d048ba062b4c846bb82
+  m_configObjects: {}
